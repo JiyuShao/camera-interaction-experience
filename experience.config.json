@@ -1,0 +1,225 @@
+{
+  "identity": {
+    "name": "邵晔宝宝",
+    "headline": "快满月啦",
+    "date": "FROM 2026.08.31",
+    "detail": "天天开心"
+  },
+  "presentation": {
+    "title": "星叶初见",
+    "welcomeEyebrow": "A LITTLE MOON, A NEW BEGINNING",
+    "welcomeLines": [
+      "让散落在夜空里的叶光，",
+      "轻轻汇聚成初见的模样。"
+    ],
+    "sceneEyebrow": "MOONLIGHT KEEPSAKE",
+    "loadingMessage": "正在收集属于宝宝的叶光",
+    "aboutEyebrow": "ABOUT THIS PIECE",
+    "aboutDescription": "一个仅在本地运行的满月纪念互动场景。叶光会在浏览器中完成全部计算。"
+  },
+  "creator": {
+    "name": "Jiyu Shao",
+    "role": "WEBSITE CREATOR",
+    "url": "https://github.com/JiyuShao"
+  },
+  "audio": {
+    "enabled": true,
+    "src": "/assets/audio/a-little-love.mp3",
+    "title": "A Little Love",
+    "volume": 0.32,
+    "loop": true,
+    "autoplay": true
+  },
+  "media": {
+    "title": "满月纪念",
+    "autoTour": {
+      "rotationSpeedRadPerSecond": 0.07,
+      "focusMs": 4200,
+      "restMs": 1000
+    },
+    "sceneCards": {
+      "size": [0.14, 0.2],
+      "opacity": 0.82
+    },
+    "items": [
+      {
+        "kind": "image",
+        "src": "/assets/media/memories/01-first-days.jpg",
+        "thumbnail": "/assets/media/thumbnails/01-first-days.jpg",
+        "alt": "戴着米黄色织物帽、裹在襁褓里的新生宝宝",
+        "caption": "初来人间，在柔软襁褓里和世界打个招呼",
+        "sceneFeatured": true
+      },
+      {
+        "kind": "image",
+        "src": "/assets/media/memories/02-hospital-hello.jpg",
+        "thumbnail": "/assets/media/thumbnails/02-hospital-hello.jpg",
+        "alt": "戴着浅黄色帽子、闭着眼躺在医院小床里的新生宝宝",
+        "caption": "小帽子盖住额头，在襁褓里睡得正安稳"
+      },
+      {
+        "kind": "image",
+        "src": "/assets/media/memories/03-newborn-dream.jpg",
+        "thumbnail": "/assets/media/thumbnails/03-newborn-dream.jpg",
+        "alt": "戴着灰色针织帽、闭着眼哭泣的宝宝躺在灰色毛毯上",
+        "caption": "小小的哭声，也是来到这个世界后响亮的表达",
+        "sceneFeatured": true
+      },
+      {
+        "kind": "image",
+        "src": "/assets/media/memories/04-dads-arms.jpg",
+        "thumbnail": "/assets/media/thumbnails/04-dads-arms.jpg",
+        "alt": "爸爸抱着新生宝宝并陪伴在小床边的组图",
+        "caption": "爸爸的怀抱，是最早的安全感之一"
+      },
+      {
+        "kind": "image",
+        "src": "/assets/media/memories/05-mom-and-baby.jpg",
+        "thumbnail": "/assets/media/thumbnails/05-mom-and-baby.jpg",
+        "alt": "妈妈侧躺在床上，宝宝靠在她身边安心熟睡",
+        "caption": "靠在妈妈身边，连梦也变得格外香甜",
+        "sceneFeatured": true
+      },
+      {
+        "kind": "image",
+        "src": "/assets/media/memories/06-sleeping-by-mom.jpg",
+        "thumbnail": "/assets/media/thumbnails/06-sleeping-by-mom.jpg",
+        "alt": "宝宝俯卧在妈妈身旁，两人一起在白色床铺上休息",
+        "caption": "和妈妈并肩睡一会儿，时光也跟着慢下来"
+      },
+      {
+        "kind": "image",
+        "src": "/assets/media/memories/07-basket-portrait.jpg",
+        "thumbnail": "/assets/media/thumbnails/07-basket-portrait.jpg",
+        "alt": "宝宝戴着可爱帽子，裹着棕色布料躺在花篮中",
+        "caption": "花篮里的小小主角，睁眼收藏每一份温柔",
+        "sceneFeatured": true
+      },
+      {
+        "kind": "image",
+        "src": "/assets/media/memories/08-little-squirrel.jpg",
+        "thumbnail": "/assets/media/thumbnails/08-little-squirrel.jpg",
+        "alt": "宝宝穿着棕色小松鼠造型的衣服，躺在毛绒篮中，身旁放着松鼠玩偶",
+        "caption": "和小松鼠一起，拍下软乎乎的满月模样",
+        "sceneFeatured": true
+      },
+      {
+        "kind": "image",
+        "src": "/assets/media/memories/09-blue-bear.jpg",
+        "thumbnail": "/assets/media/thumbnails/09-blue-bear.jpg",
+        "alt": "宝宝穿着蓝色背带裤、戴着蓝色小熊帽，躺在蓝色布景中",
+        "caption": "蓝色小熊的午后，困意来得刚刚好",
+        "sceneFeatured": true
+      },
+      {
+        "kind": "image",
+        "src": "/assets/media/memories/10-little-prince.jpg",
+        "thumbnail": "/assets/media/thumbnails/10-little-prince.jpg",
+        "alt": "宝宝穿着绿色小王子造型的衣服，躺在深蓝色星空布景中",
+        "caption": "来自小星球的王子，也有着响亮的心声",
+        "sceneFeatured": true
+      },
+      {
+        "kind": "image",
+        "src": "/assets/media/memories/11-tummy-time.jpg",
+        "thumbnail": "/assets/media/thumbnails/11-tummy-time.jpg",
+        "alt": "宝宝戴着浅蓝色帽子，穿着黄色衣服趴在软垫上练习抬头",
+        "caption": "努力抬起小脑袋，看看更远一点的世界"
+      },
+      {
+        "kind": "image",
+        "src": "/assets/media/memories/12-bright-eyed-portrait.jpg",
+        "thumbnail": "/assets/media/thumbnails/12-bright-eyed-portrait.jpg",
+        "alt": "头发蓬松、穿着白色上衣的宝宝正面望向镜头",
+        "caption": "眼睛亮亮，认真回应每一次呼唤",
+        "sceneFeatured": true
+      },
+      {
+        "kind": "image",
+        "src": "/assets/media/memories/13-mid-autumn-moon.jpg",
+        "thumbnail": "/assets/media/thumbnails/13-mid-autumn-moon.jpg",
+        "alt": "宝宝躺在月亮与花灯装饰旁，画面上写着“中秋快乐”",
+        "caption": "花灯与月光作伴，留下第一个中秋的祝福",
+        "sceneFeatured": true
+      },
+      {
+        "kind": "image",
+        "src": "/assets/media/memories/14-gentle-care.jpg",
+        "thumbnail": "/assets/media/thumbnails/14-gentle-care.jpg",
+        "alt": "穿着粉色衣服的家人俯身看护花篮中的宝宝",
+        "caption": "镜头之外，也有人一直温柔守护"
+      },
+      {
+        "kind": "image",
+        "src": "/assets/media/memories/15-birthmark-details.jpg",
+        "thumbnail": "/assets/media/thumbnails/15-birthmark-details.jpg",
+        "alt": "记录宝宝身上胎记与局部肌肤细节的组图",
+        "caption": "小小的胎记，是与生俱来的独特印记"
+      },
+      {
+        "kind": "image",
+        "src": "/assets/media/memories/16-heart-shaped-feet.jpg",
+        "thumbnail": "/assets/media/thumbnails/16-heart-shaped-feet.jpg",
+        "alt": "双手围成心形托住宝宝脚丫，旁边配有脚趾和耳朵特写的组图",
+        "caption": "被双手捧住的小脚丫，装着全家的爱",
+        "sceneFeatured": true
+      },
+      {
+        "kind": "image",
+        "src": "/assets/media/memories/17-tiny-moments.jpg",
+        "thumbnail": "/assets/media/thumbnails/17-tiny-moments.jpg",
+        "alt": "宝宝小脚、小手与嘴角等成长细节的组图",
+        "caption": "小脚、小手、小嘴巴，把初见的细节一一珍藏"
+      }
+    ]
+  },
+  "model": {
+    "sourcePath": "assets/source/sleeping-baby.glb",
+    "pointsUrl": "/assets/models/sleeping-baby.points",
+    "sampleCount": 30000,
+    "rotation": [0, 0, 1.5707963268],
+    "scale": 1,
+    "offset": [0, 0, 0],
+    "credit": {
+      "title": "Sleeping Baby",
+      "author": "Syral86",
+      "sourceUrl": "https://sketchfab.com/3d-models/sleeping-baby-f64d9f687a2e458883d72489adfa5fba",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "particles": {
+    "leafRatio": 0.7,
+    "dustRatio": 0.2,
+    "starRatio": 0.1,
+    "leafSize": [7, 13],
+    "structuralLeafRatio": 0.022,
+    "structuralLeafSize": [0.06, 0.105],
+    "foregroundLeafCount": 10,
+    "foregroundLeafSize": [30, 54],
+    "leafFlutterStrength": 0.13,
+    "highCount": 30000,
+    "mediumCount": 20000,
+    "lowCount": 12000,
+    "gatherDurationMs": 4200,
+    "scatterDurationMs": 3200
+  },
+  "gestures": {
+    "inferenceFps": 20,
+    "confirmationMs": 160,
+    "heartConfirmationMs": 260,
+    "evidenceFrames": 2,
+    "pinchReleaseMs": 300,
+    "lossGraceMs": 800,
+    "filterMinCutoff": 1.7,
+    "filterBeta": 0.18,
+    "filterDerivativeCutoff": 1,
+    "motion": {
+      "horizontalDeadZone": 0.06,
+      "verticalDeadZone": 0.07,
+      "maxYawSpeedRadPerSecond": 1.8,
+      "maxPitchSpeedRadPerSecond": 1.35,
+      "responseExponent": 1.2
+    }
+  }
+}
