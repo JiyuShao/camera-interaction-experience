@@ -671,7 +671,7 @@ button {
 }
 
 .media-focus-caption {
-  top: calc(50% + clamp(150px, 30vh, 250px));
+  top: 82%;
   left: 50%;
   display: flex;
   gap: 12px;
@@ -696,6 +696,11 @@ button {
   transform: translate(-50%, 0);
   visibility: visible;
   opacity: 1;
+}
+
+.media-focus-caption.is-visible ~ .interaction-hint {
+  opacity: 0;
+  pointer-events: none;
 }
 
 .media-focus-caption span {
@@ -1386,7 +1391,7 @@ button {
   }
 
   .media-focus-caption {
-    top: calc(50% + min(29vh, 238px));
+    top: 82%;
     max-width: calc(100vw - 32px);
     padding: 9px 14px;
   }
